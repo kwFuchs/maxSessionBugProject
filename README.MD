@@ -1,4 +1,4 @@
-In this project I reproduce a Bug in JBoss / HornetQ.
+In this project I reproduce <a href="https://bugzilla.redhat.com/show_bug.cgi?id=1418976">a Bug</a> in JBoss / HornetQ.
 
 WHEN a Message Driven Bean sends Messages to itself
 AND the amount of Messages send exceeds maxSession
